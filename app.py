@@ -1085,6 +1085,6 @@ st.markdown("---")
 st.markdown("""
     <div style='text-align: center; color: gray;'>
         <p>📊 CDIMEX Dashboard | Phát triển bởi R&D Team | 
-        <a href='mailto:thuong@vietravel.com'>thuong@vietravel.com</a></p>
+        <a href='mailto:thuong@vietravel.com'>thuongln.bdd@vietravel.com</a></p>
     </div>
 """, unsafe_allow_html=True)
