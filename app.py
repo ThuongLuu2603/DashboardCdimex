@@ -100,7 +100,7 @@ data_khachhang = pd.DataFrame({
 
 # ==================== SIDEBAR ====================
 with st.sidebar:
-    st.image("https://via.placeholder.com/200x80/1f77b4/ffffff?text=CDIMEX", use_container_width=True)
+    st.image("https://s3-cmc.travel.com.vn/static/logos/2026/LogoVTV_RGB.png?e=vietravel", use_container_width=True)
     st.title("📊 CDIMEX Dashboard")
     st.markdown("---")
     
